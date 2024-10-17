@@ -1,0 +1,17 @@
+{
+    "name": "pierre-yves/dompdf",
+    "description": "Test dompdf",
+    "autoload": {
+        "psr-4": {
+            "PierreYves\\Dompdf\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "pyr"
+        }
+    ],
+    "require": {
+        "dompdf/dompdf": "^3.0"
+    }
+}
